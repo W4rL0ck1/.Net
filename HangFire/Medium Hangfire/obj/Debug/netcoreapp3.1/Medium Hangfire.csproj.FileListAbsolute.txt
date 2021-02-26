@@ -1,0 +1,42 @@
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Medium Hangfire.exe
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Medium Hangfire.deps.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Medium Hangfire.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Medium Hangfire.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Medium Hangfire.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Medium Hangfire.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Hangfire.MemoryStorage.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\staticwebassets\Medium Hangfire.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\staticwebassets\Medium Hangfire.StaticWebAssets.xml
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\scopedcss\bundle\Medium Hangfire.styles.css
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.csproj.CopyComplete
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\HangFire\Medium Hangfire\obj\Debug\netcoreapp3.1\Medium Hangfire.genruntimeconfig.cache
