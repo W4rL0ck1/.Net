@@ -1,0 +1,12 @@
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\bin\Debug\Macorrati banco.exe.config
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\bin\Debug\Macorrati banco.exe
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\bin\Debug\Macorrati banco.pdb
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\obj\Debug\Macorrati banco.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\obj\Debug\Macorrati banco.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\obj\Debug\Macorrati banco.csproj.CopyComplete
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\obj\Debug\Macorrati banco.exe
+C:\Users\Lenovo T430\source\repos\Macorrati banco\Macorrati banco\obj\Debug\Macorrati banco.pdb

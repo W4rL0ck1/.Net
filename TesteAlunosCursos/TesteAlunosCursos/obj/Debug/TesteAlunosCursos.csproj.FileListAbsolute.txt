@@ -1,0 +1,15 @@
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\bin\Debug\TesteAlunosCursos.exe.config
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\bin\Debug\TesteAlunosCursos.exe
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\bin\Debug\TesteAlunosCursos.pdb
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\obj\Debug\TesteAlunosCursos.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\obj\Debug\TesteAlunosCursos.Form1.resources
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\obj\Debug\TesteAlunosCursos.Properties.Resources.resources
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\obj\Debug\TesteAlunosCursos.csproj.GenerateResource.cache
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\obj\Debug\TesteAlunosCursos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\obj\Debug\TesteAlunosCursos.csproj.CopyComplete
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\obj\Debug\TesteAlunosCursos.exe
+C:\Users\Lenovo T430\source\repos\TesteAlunosCursos\TesteAlunosCursos\obj\Debug\TesteAlunosCursos.pdb

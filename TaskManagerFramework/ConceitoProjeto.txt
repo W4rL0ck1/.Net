@@ -1,0 +1,111 @@
+x’Solicitação de Demanda. 
+
+  
+
+Criar um sistema Gerenciador de tarefas, para checklist de fechamento mensal, esse sistema deverá ser Multiempresas e será implantado em nuvem Azure.  
+
+ 
+
+Documento de Requisitos 
+
+ 
+
+1) Login 
+
+Empresa 
+
+EmailUsuario e Senha 
+
+Senha 
+
+  
+
+1) Cadastro de Empresas 
+
+  
+
+2) Cadastro de Departamentos  (Exemplos (Financeira, Contábil, RH) 
+
+-ID 
+
+-Nome 
+
+  
+
+3) Cadastro de Usuários 
+
+-ID 
+
+-Nome 
+
+-Email 
+
+-Função 
+
+-DataDeCadastro 
+
+-Ativo 
+
+-Area 
+
+* Um usuário pode atender mais de uma área 
+
+* Um usuário pode ter mais de uma função e ser administrador do sistema da empresa que ele representa 
+
+* Um usuario administrador apenas cadastra usuarios referentes a sua empresa 
+
+ 
+
+4) Cadastro de Checklist 
+
+-ID 
+
+-Nome 
+
+-Descricao 
+
+-DataInicio 
+
+-DataFinal 
+
+* Quando for criar um novo checklist poder copiar as tarefas de um anterior criando 
+
+novas. 
+
+ 
+
+5) Cadastro de Tarefas do Checklist 
+
+- ID 
+
+- IdChecklist 
+
+- NomeDaTarefa 
+
+- TarefaPredecessora 
+
+- DataDeInicio 
+
+- DataFinal 
+
+- Iniciada 
+
+- Concluida 
+
+* So poderá iniciar a tarefa caso a predecessora estiver concluida. 
+
+  
+
+ 
+
+6) Modulo Relatórios 
+
+- Listar Todas as Tarefas por área 
+
+- Listar Todas as Tarefas com indicadores Em Dia ou Atrasadas 
+
+ 
+
+ 
+
+ 
